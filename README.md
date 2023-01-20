@@ -1,6 +1,6 @@
 # NLW Setup
 
-NLW Setup Project at Rocketseat - Ignite Trail.
+NLW 11 - Setup Project at Rocketseat - Ignite Trail.
 
 <img src='./cover.png'>
 
